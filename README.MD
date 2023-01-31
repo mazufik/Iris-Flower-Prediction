@@ -5,7 +5,12 @@
 
 # **Screenshot**
 
-![](screenshot.jpg)
+![](path/../screenshot.png)
+
+# **Features**
+
+- Prediction
+- Predict Result/DB
 
 # Installation
 
